@@ -47,7 +47,7 @@ INSERT INTO utilisateur(login,email,role,etat,pwd) VALUES
 
  INSERT INTO stagiaire(nom,prenom,civilite,nomEncadrant,sujet,Services,photo,idFiliere) VALUES
     ('Meryem','Houssam','F','Mme Meryem Lardi','Application web gestion stagiaires','informatique','Koala.jpg',1),
-    ('Ismail','Ellahya','M','M Abderhamane EL ghazi','Application web gestion de demande d abonnement ','informatique','Desert.jpg',1)
+    ('Assma','BYad','M','M ismail ILEA','Application web gestion de demande d abonnement ','informatique','Desert.jpg',1)
      ('Rim','Abidi','F','Mme Ibtissam ','gérer l abscence','Ressources humaines','Tulipes.jpg',2);
 
 
